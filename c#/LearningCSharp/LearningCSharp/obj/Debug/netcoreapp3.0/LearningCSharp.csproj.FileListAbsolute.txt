@@ -1,0 +1,11 @@
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp3.0/LearningCSharp
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp3.0/LearningCSharp.deps.json
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp3.0/LearningCSharp.runtimeconfig.json
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp3.0/LearningCSharp.runtimeconfig.dev.json
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp3.0/LearningCSharp.dll
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp3.0/LearningCSharp.pdb
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp3.0/LearningCSharp.csprojAssemblyReference.cache
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp3.0/LearningCSharp.AssemblyInfoInputs.cache
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp3.0/LearningCSharp.AssemblyInfo.cs
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp3.0/LearningCSharp.dll
+/Users/jordanblane/Desktop/week5/c#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp3.0/LearningCSharp.pdb

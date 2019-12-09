@@ -1,0 +1,26 @@
+.App{
+  margin-top:200px;
+  margin-left:100px;
+}
+.Box{
+  width:25%;
+}
+
+.Box img{
+  height:100%;
+  width:100%;
+}
+.Box p{
+  text-align:center
+}
+.Wrapper{
+  width:100%;
+}
+.Container1{
+  width:50%;
+  height:100vh;
+}
+.Container2{
+  width:50%;
+  margin-top:10%;
+}

@@ -1,0 +1,11 @@
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.deps.json
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.runtimeconfig.json
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.runtimeconfig.dev.json
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.csprojAssemblyReference.cache
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll
+/Users/jordanblane/Desktop/week5/c#/Game/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb

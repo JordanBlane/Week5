@@ -1,0 +1,13 @@
+*{margin:0;padding:0}
+#screen{
+    width:100vw;
+    height:100vh;
+    background-color:orangered;
+}
+
+#screen div{
+    width:10%;
+    background-color: palegreen;
+    margin-left:5px;
+    margin-right:5px
+}
